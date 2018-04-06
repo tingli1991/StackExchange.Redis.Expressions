@@ -1,0 +1,13 @@
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\StackExchange.Redis.Expressions.dll
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\StackExchange.Redis.Expressions.pdb
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\obj\Debug\StackExchange.Redis.Expressions.dll
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\obj\Debug\StackExchange.Redis.Expressions.pdb
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\StackExchange.Redis.dll
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\StackExchange.Redis.xml
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\log4net.dll
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\log4net.xml
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\Jil.dll
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\Sigil.dll
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\Jil.pdb
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\Jil.xml
+C:\Users\litin\Desktop\StackExchange.Redis.Expressions\StackExchange.Redis.Expressions\bin\Debug\Sigil.xml
